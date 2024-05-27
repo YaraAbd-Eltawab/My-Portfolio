@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.portfolio-item {
+    margin-bottom: 20px;
+}
+.certificate-item img {
+    height: 200px;
+}
+footer {
+    padding: 20px 0;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+.bg-light-blue {
+    background-color: #e3f2fd;
+}
+.bg-light-green {
+    background-color: #e8f5e9;
+}
+.bg-light {
+    background-color: #f8f9fa;
+}
+.text-center {
+    text-align: center;
+}
